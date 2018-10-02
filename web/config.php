@@ -5,5 +5,5 @@ define('GJ_CODE', 'US');
 define('SITE_NAME', '仙人掌爱玫瑰~');
 define('TITLENAME', China_Qingshao');
 define('EN2DEKEY', 'AIzaSyD9mDNILQingshao');
-define('EMAIL', 'q2822590253@gmail');
+define('EMAIL', 'q3120852627@gmail.com');
 ?>
